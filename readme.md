@@ -1,6 +1,6 @@
-Instructions
+# Instructions
 
-Run PHP server: php -S localhost:9000
-Add sitemap.xml
-Go to: localhost:9000/sitemap.php
-Get output.xml
+1. Run PHP server: php -S localhost:9000 (MacOS)
+2. Add sitemap.xml
+3. Go to: localhost:9000/sitemap.php
+4. Get output.xml
